@@ -1,0 +1,11 @@
+# Ignore python virtual environment
+.venv/
+
+# Ignore specific config file containing sensitive data
+quiz_project/quiz_app/config.py
+
+# Ignore bytecode files and Python cache directories
+__pycache__/
+
+# Ignore environment variables file
+.env
